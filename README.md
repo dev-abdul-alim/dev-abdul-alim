@@ -1,19 +1,16 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" alt="Abdul Alim - Frontend Developer" width="100%" />
+<img src="https://i.pinimg.com/1200x/40/5b/91/405b9141b1639a6e78d0c7e1a89742df.jpg" alt="plan-coffee-code" width="100%" />
 
 # Abdul Alim
 
-### Aspiring Frontend Developer | React & Next.js Learner
+### Aspiring Full Stack Developer | React & Next.js Learner
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="YOUR_GITHUB_URL">
+    <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/dev-abdul-alim)" />
   </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto: abdulalimad17@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -24,7 +21,7 @@
 
 ## About Me
 
-I am a student and aspiring Frontend Developer currently focused on learning modern web development. I enjoy building responsive, user-friendly interfaces and turning ideas into functional web applications.
+I am a student and aspiring Full Stack Developer currently focused on learning modern web development. I enjoy building responsive, user-friendly interfaces and turning ideas into functional web applications.
 
 I am continuously improving my skills in React, Next.js, JavaScript, and modern frontend technologies while building practical projects.
 
@@ -72,7 +69,7 @@ A responsive workout and exercise library built with Next.js, React, JavaScript 
 - Dynamic routes
 - Toast notifications
 
-[View Project](YOUR_LIVE_PROJECT_URL) • [GitHub Repository](YOUR_REPOSITORY_URL)
+[View Project](assignment-06-ecru.vercel.app) • [GitHub Repository](https://github.com/dev-abdul-alim/assignment-06)
 
 ---
 
