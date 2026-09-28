@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg" alt="finally you found me" width="100%" />
+<img src="https://i.pinimg.com/1200x/38/ec/0f/38ec0fada33a3f2345d4ef9b40afbb41.jpg" alt="background photo" width="100%" />
 
 # Abdul Alim
 
@@ -77,11 +77,7 @@ A responsive workout and exercise library built with Next.js, React, JavaScript 
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_EMAIL">
+<a href="abdulalimad17@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
